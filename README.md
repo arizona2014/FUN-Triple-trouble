@@ -19,3 +19,5 @@ tripledouble(12345, 12345) == 0
 
 tripledouble(666789, 12345667) == 1
 ```
+
+If this isn't the case, return 0
