@@ -39,3 +39,5 @@ function tripledouble(num1, num2) {
   }
   
 }
+
+Sample Tests:
